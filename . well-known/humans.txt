@@ -1,0 +1,3 @@
+# The domain-config repository is created as a project to learn and experience best-practices for domain neering.eu.
+# Thank you for reading this message and hope you have a nice day!
+# Regards, Arjan Neering
